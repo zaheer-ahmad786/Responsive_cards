@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+.container{
+    background-color: rgb(218, 212, 212);
+    width: 50%;
+    height: 600px;
+    margin: 10px auto;
+    border-radius: 10px;
+    font-size: 20px;
+}
+.row{
+    height: 100px;
+    background-color: rgb(47, 155, 47);
+    border-radius:10px 10px 0px 0px;
+    color: white;
+    padding: 20px;
+    font-size: 20px;
+}
+.row2{
+padding: 20px;
+}
+.row2 input {
+    width: 100%;
+    padding:10px 40px;
+    border-radius: 10px;
+    font-size: 16px;
+}
+.row2 select option{
+    width: 100%;
+    font-size: 16px;
+   
+}
+.btn {
+    width: 80px;
+    height: 50px;
+    background-color: chartreuse;
+    font-size: 20px;
+    border-radius: 10px;
+    margin-top: 5px;
+}
